@@ -15,12 +15,6 @@ I am a backend engineer with experience handling enterprise-scale transactions, 
 * **DevOps & Cloud:** Docker, Kubernetes, Terraform, AWS (EC2, S3), CI/CD pipelines
 * **AI/ML Integration:** Local LLMs, Ollama, Vector Stores (RAG)
 
-### 🚀 Recent Deployments (Projects)
-
-* **[DocQA (RAG Engine)](https://www.google.com/search?q=https://github.com/thakordrvl/docqa):** A full-stack Spring AI application using local Ollama models to parse and query documents without LLM hallucinations. Features real-time SSE streaming.
-* **[Distributed API Rate Limiter](https://www.google.com/search?q=https://github.com/thakordrvl/rate-limiter):** A high-throughput gateway using Redis Lua scripts to strictly throttle 5,000+ concurrent requests.
-* **[Financial Data Processing Engine](https://www.google.com/search?q=https://github.com/thakordrvl/financial-engine):** A sub-millisecond client-server pipeline for fetching and formatting enterprise-grade mocked trade data.
-
 ### 🏍️ Off-Heap Memory (Outside of Work)
 
 * Clocking miles on long-distance motorcycle road trips.
